@@ -16,4 +16,4 @@ Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
 
 ### Explicação:
 
-Um idéia de página principal de um site feito em HTML5 e CSS3.
+Uma idéia de página principal de um site feito em HTML5 e CSS3.
