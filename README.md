@@ -11,7 +11,7 @@
 ### Como rodar o projeto:
 Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
 
-1. git clone https://github.com/thaniagomes/form_2 para clonar o projeto!
+1. git clone https://github.com/thaniagomes/site_tecblog para clonar o projeto!
 2. Abrir o arquivo index.html no navegador.
 
 ### Explicação:
