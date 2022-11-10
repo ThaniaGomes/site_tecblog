@@ -1,0 +1,170 @@
+/*Limpar formatações padrão*/
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*Formatando Tags*/
+
+body{
+	font-size: 1em;
+	font-family: "trebuchet MS", helvetica, sans-serif;
+	background: #e6e6e6 ;
+}
+
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2{
+	color: #f7b600;
+}
+
+h3{
+	background-color: #D8D8D8;
+	color: #585858;
+}
+
+
+
+/*Formatando IDS*/
+
+
+#cabecalho{
+ 	background-color: #FFBF00;
+ 	padding: 15px;
+ 	text-align: center;
+}
+
+#logo{
+	padding: 5px;
+
+}
+
+#menus{
+	padding: 10px;
+	margin: 10px;
+	
+}
+
+#area-principal{
+	width: 920px;
+	margin: 0px auto;
+	padding: 15px;
+
+}
+
+#postagem{
+	width: 660px;
+	float: left;
+}
+#lateral{
+	width: 240px;
+	float: right;
+}
+#rodape{
+	clear: both;
+	text-align: center;
+	padding: 10px;
+
+}
+
+
+
+/*Formatando Classes*/
+
+.branco{
+	color:white;
+}
+.post{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+.latdi1{
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 10px;
+
+}
+
+.latdi2{
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+
+.datapostagem{
+	font-size: 0.8em;
+	border-bottom: 1px solid white;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.texto-lateral{
+	border-bottom: 2px dotted #CCC;
+	padding: 5px;
+}
+
+
+
+/* Formatando os links do menu*/
+a{
+	text-decoration: none;
+	padding: 5px;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#menus a:link,
+#menus a:visited
+{
+	color: white;
+	text-decoration: none;
+
+}
+
+#menus a:hover,
+#menus a:active
+{
+	background: white;
+	color:#FFBF00;
+	text-decoration: none;
+}
+
+/* Formatando os links do texto*/
+
+.post a:link,
+.post a:visited
+{
+	color: #FFBF00;
+
+}
+
+.post a:hover,
+{
+	color:#FFBF00;
+}
+
+/* Formatando os links da lateral*/
+
+.latdi1 a{
+	color: #FFBF00;
+	font-size: 0.9em;
+	text-decoration: none;
+	
+
+}
+
+.latdi2 a{
+	color: #FFBF00;
+	font-size: 1.1em;
+	text-decoration: none;
+}
